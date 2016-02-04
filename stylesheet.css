@@ -1,16 +1,28 @@
 #body_index	{
 		background-color: Orange;
-		color: blue
+		color: blue;
+		font-size: 14pt;
+		font-family: Sans-serif; 
+		
 		
 		
 }
 
-div {background-color: white; 
+#resume {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+.image {background-color: white; 
 	border: 5px solid black;
-	width: 650px;
+	width: 400px;
+	height: 400px;
 	padding: 20px;
 	padding-bottom: 100px;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: auto;
+	margin-left: auto;
 	text-align: center
 }
+
